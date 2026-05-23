@@ -72,14 +72,6 @@ Full Stack Developer • Cloud & DevOps Enthusiast • Security-Aware Developer
 * 🔥 Improving application performance and security
 * 🧠 Learning advanced system architecture and scalable application design
 
----
-
-## 🏆 Certifications
-
-* 🥇 HackerRank CSS Certification
-* 🛡️ Ethical Hacking Training
-* 🌐 Network & Network Security
-* 🐍 Python for Hacking
 
 ---
 
